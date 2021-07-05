@@ -10,6 +10,12 @@ git clone https://github.com/mohamedelsisy/e3melbusiness-task.git
 cd e3melbusiness-task
 ```
 
+Reman .evn.example to .env or use this command
+```bash
+cp .env.example .env
+
+```
+
 ```bash
 create new database  e3melbusiness-task
 ```
