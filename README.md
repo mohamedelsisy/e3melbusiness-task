@@ -1,6 +1,6 @@
 ## Installation
 
-You can install the package via composer:
+You can install via:
 
 ```bash
 git clone https://github.com/mohamedelsisy/e3melbusiness-task.git
