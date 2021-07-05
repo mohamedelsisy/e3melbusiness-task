@@ -15,21 +15,20 @@ Remane .evn.example to .env or use this command
 cp .env.example .env
 
 ```
-
-```bash
 create new database  e3melbusiness-task
+
+
+
+```bash
+php artisan migrate
 ```
 
 ```bash
-run 'php artisan migrate'
+php artisan db:seed
 ```
 
 ```bash
-run 'php artisan db:seed'
-```
-
-```bash
-run 'php artisan artisan serve'
+php artisan  serve
 ```
 
 For Admin Dashboard
